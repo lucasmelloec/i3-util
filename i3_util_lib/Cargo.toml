@@ -1,0 +1,7 @@
+[package]
+name = "i3_util_lib"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+i3_ipc = "0.16.0"

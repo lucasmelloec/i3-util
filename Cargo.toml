@@ -1,0 +1,10 @@
+[package]
+name = "i3-util"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = ["i3_util_lib"]
+
+[dependencies]
+i3_util_lib = { path = "i3_util_lib" }
